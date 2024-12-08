@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Welcome to my corner of the web! I’m Neha Johari, a passionate technocrat with over 13 years of experience in IT Project Management, navigating the complexities of technology to deliver impactful solutions.
 
-What else do you need?
+Professionally, I hold certifications like PMP and PMI-ACP, and specialize in translating ambitious ideas into actionable projects. My journey spans diverse roles—from leading agile teams at CDAC Noida to ensuring seamless collaboration between technical and business teams.
 
-### My story
+Outside of work, I’m a proud wife and the mother of two beautiful daughters. We live in Noida, where I balance my professional pursuits with my love for music and fitness. Staying active and embracing the rhythm of life keeps me inspired both at work and home.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Join me here as I share professional insights, personal anecdotes, and thoughts on balancing a fulfilling career with a vibrant life beyond the desk.
+
+Let’s innovate, inspire, and grow together!
