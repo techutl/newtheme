@@ -4,8 +4,6 @@ title: About me
 subtitle: 
 ---
 
-About Me
-
 Welcome to my corner of the web! I’m Neha Johari, a passionate technocrat with over 13 years of experience in IT Project Management, navigating the complexities of technology to deliver impactful solutions.
 
 Professionally, I hold certifications like PMP and PMI-ACP, and specialize in translating ambitious ideas into actionable projects. My journey spans diverse roles—from leading agile teams at CDAC Noida to ensuring seamless collaboration between technical and business teams.
